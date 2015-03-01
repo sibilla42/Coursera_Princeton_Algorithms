@@ -1,4 +1,6 @@
-
+/**
+ * 
+ * /
 public class Percolation {
 	private int[][] grid;
 	private WeightedQuickUnionUF wqu;
